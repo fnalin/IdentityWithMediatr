@@ -18,6 +18,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\FansoftEcommerce.Application\FansoftEcommerce.Application.csproj" />
+      <ProjectReference Include="..\FansoftEcommerce.Infra.Identity\FansoftEcommerce.Infra.Identity.csproj" />
       <ProjectReference Include="..\FansoftEcommerce.Infra.Persistence\FansoftEcommerce.Infra.Persistence.csproj" />
     </ItemGroup>
 

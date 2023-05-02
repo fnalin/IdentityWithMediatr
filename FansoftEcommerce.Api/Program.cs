@@ -1,6 +1,7 @@
 using FansoftEcommerce.Api.Extensions;
 using FansoftEcommerce.Application;
 using FansoftEcommerce.Infra.Persistence;
+using FansoftEcommerce.Infra.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
@@ -9,7 +10,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services
     .AddApplication()
-    .AddPersistence(builder.Configuration);
+    .AddPersistence(builder.Configuration)
+    .AddIdentity(builder.Configuration);
+
 
 var app = builder.Build();
 

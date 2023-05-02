@@ -1,0 +1,12 @@
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/bin/Debug/net7.0/FansoftEcommerce.Infra.Identity.deps.json
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/bin/Debug/net7.0/FansoftEcommerce.Infra.Identity.dll
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/bin/Debug/net7.0/FansoftEcommerce.Infra.Identity.pdb
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.csproj.AssemblyReference.cache
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.AssemblyInfoInputs.cache
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.AssemblyInfo.cs
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.csproj.CoreCompileInputs.cache
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.dll
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/refint/FansoftEcommerce.Infra.Identity.dll
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/FansoftEcommerce.Infra.Identity.pdb
+/Users/fabianonalin/Development/estudos/AspNetIdentity/FansoftEcommerce/FansoftEcommerce.Infra.Identity/obj/Debug/net7.0/ref/FansoftEcommerce.Infra.Identity.dll

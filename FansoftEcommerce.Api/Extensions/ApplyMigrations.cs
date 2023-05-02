@@ -1,4 +1,5 @@
 using FansoftEcommerce.Domain.Products;
+using FansoftEcommerce.Infra.Identity;
 using FansoftEcommerce.Infra.Persistence;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,9 @@ public static class MigrationExtensions
         using var scope = app.Services.CreateScope();
         var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
         dbContext.Database.Migrate();
+        
+        var dbContextIdentity = scope.ServiceProvider.GetRequiredService<IdentityDataContext>();
+        dbContextIdentity.Database.Migrate();
 
         // if (!dbContext.Products.Any()) {
         //     var products = new Product[] {
