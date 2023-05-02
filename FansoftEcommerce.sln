@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FansoftEcommerce.Api", "FansoftEcommerce.Api\FansoftEcommerce.Api.csproj", "{806FA91C-D574-4AE8-ABBA-4FA2EC117500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FansoftEcommerce.Domain", "FansoftEcommerce.Domain\FansoftEcommerce.Domain.csproj", "{F38E72B3-2B5D-401A-B5F8-1FEA1BF3ECDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FansoftEcommerce.Application", "FansoftEcommerce.Application\FansoftEcommerce.Application.csproj", "{8148B058-247C-42ED-B4A2-0213336AC50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FansoftEcommerce.Infra.Persistence", "FansoftEcommerce.Infra.Persistence\FansoftEcommerce.Infra.Persistence.csproj", "{3A3ACB3F-31B6-464F-A3D3-D09DD356E452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806FA91C-D574-4AE8-ABBA-4FA2EC117500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806FA91C-D574-4AE8-ABBA-4FA2EC117500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806FA91C-D574-4AE8-ABBA-4FA2EC117500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806FA91C-D574-4AE8-ABBA-4FA2EC117500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38E72B3-2B5D-401A-B5F8-1FEA1BF3ECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38E72B3-2B5D-401A-B5F8-1FEA1BF3ECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38E72B3-2B5D-401A-B5F8-1FEA1BF3ECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38E72B3-2B5D-401A-B5F8-1FEA1BF3ECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8148B058-247C-42ED-B4A2-0213336AC50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8148B058-247C-42ED-B4A2-0213336AC50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8148B058-247C-42ED-B4A2-0213336AC50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8148B058-247C-42ED-B4A2-0213336AC50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3ACB3F-31B6-464F-A3D3-D09DD356E452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3ACB3F-31B6-464F-A3D3-D09DD356E452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3ACB3F-31B6-464F-A3D3-D09DD356E452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3ACB3F-31B6-464F-A3D3-D09DD356E452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
