@@ -3,7 +3,7 @@ using FansoftEcommerce.Domain.Products;
 // ReSharper disable once IdentifierTypo
 namespace FansoftEcommerce.Application.Data;
 
-public interface IProductRepository
+public interface IProductRepository : IRepository
 {
     Task<IEnumerable<Product>> GetAsync();
     Task<Product?> GetAsync(int id);
